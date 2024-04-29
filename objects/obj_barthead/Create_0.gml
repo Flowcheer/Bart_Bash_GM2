@@ -1,0 +1,1 @@
+audio_play_sound(ow,0,0)
