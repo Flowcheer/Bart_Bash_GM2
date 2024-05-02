@@ -1,0 +1,6 @@
+audio_stop_all()
+audio_play_sound(success,0,0)
+show_message("sweet nice job!!!!")
+instance_create(x,y,obj_barthead)
+room_goto(room7)
+instance_destroy()
