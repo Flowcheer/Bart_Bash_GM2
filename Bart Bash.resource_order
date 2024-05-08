@@ -242,6 +242,7 @@
     {"name":"room18","order":18,"path":"rooms/room18/room18.yy",},
     {"name":"room19","order":19,"path":"rooms/room19/room19.yy",},
     {"name":"room20","order":20,"path":"rooms/room20/room20.yy",},
+    {"name":"Room21","order":21,"path":"rooms/Room21/Room21.yy",},
     {"name":"compatibility_report_290424_163606366","order":1,"path":"notes/compatibility_report_290424_163606366/compatibility_report_290424_163606366.yy",},
   ],
 }

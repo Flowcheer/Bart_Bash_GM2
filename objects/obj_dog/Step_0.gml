@@ -1,1 +1,1 @@
-action_move(8,12)
+action_move("111101111", 12);
