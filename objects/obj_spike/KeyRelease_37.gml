@@ -1,1 +1,1 @@
-hspeed = -8
+hspeed = 0

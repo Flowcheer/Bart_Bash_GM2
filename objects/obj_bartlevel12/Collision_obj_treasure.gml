@@ -1,0 +1,5 @@
+audio_play_sound(door,0,0)
+audio_play_sound(teleport,0,0)
+show_message("treasure away!!!!!!!!!!!")
+audio_stop_sound(lvl12music)
+room_goto(room12)

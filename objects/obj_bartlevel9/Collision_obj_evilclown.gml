@@ -1,0 +1,5 @@
+instance_create(x,y,obj_barthead)
+audio_play_sound(ow,0,0)
+room_goto(room9)
+audio_stop_sound(lvl9music)
+instance_destroy()

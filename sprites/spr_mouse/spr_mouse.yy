@@ -33,8 +33,8 @@
   "nineSlice": null,
   "origin": 4,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Bart Bash.project",
+    "path": "Bart Bash.project.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

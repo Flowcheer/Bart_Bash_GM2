@@ -1,1 +1,1 @@
-vspeed = 5
+vspeed = 0
