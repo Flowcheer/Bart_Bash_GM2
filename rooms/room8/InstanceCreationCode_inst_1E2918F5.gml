@@ -1,0 +1,1 @@
+txt = "move with left and right"

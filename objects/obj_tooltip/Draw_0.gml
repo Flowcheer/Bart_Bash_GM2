@@ -1,0 +1,5 @@
+draw_set_color(color)
+draw_set_font(Font1)
+draw_set_alpha(alpha)
+draw_text(x,y,txt)
+draw_set_alpha(1)
